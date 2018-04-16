@@ -1,7 +1,7 @@
 {
   "issuer": "eosio",
   "maximum_supply": "1000000000.0000 EOS",
-  "can_freeze": true,
-  "can_recall": true,
-  "can_whitelist": true
+  "can_freeze": 0,
+  "can_recall": 0,
+  "can_whitelist": 0
 }
