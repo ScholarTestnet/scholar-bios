@@ -12,6 +12,14 @@
     {
       "producer_name": "staked",
       "block_signing_key": "EOS5jds9EmCk6wpcJQURp4aYq6M318gLQZTT1aUVoU7yWVYSjPDE1"
+    },
+    {
+      "producer_name": "eos.dublin",
+      "block_signing_key": "EOS8hoSchLecy3WYM9SKPQiXso4awRidxyDHtVNTrVBxkkAUzSqUf"
+    },
+    {
+      "producer_name": "cafe.calgary",
+      "block_signing_key": "EOS8bQz8ve6DpfVTaPXPotrjW3J2h6uToW4g2uV9rXfMYSwicawma"
     }
   ]
 }
