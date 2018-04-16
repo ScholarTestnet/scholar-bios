@@ -8,6 +8,10 @@
     {
       "producer_name": "eosocal",
       "block_signing_key": "EOS8Ctxaor6oNQNuNUVtiNQSeNJW5X2hNjtHKTV4yLvUB7Hy95Adf"
+    },
+    {
+      "producer_name": "stakes",
+      "block_signing_key": "EOS5jds9EmCk6wpcJQURp4aYq6M318gLQZTT1aUVoU7yWVYSjPDE1"
     }
   ]
 }
