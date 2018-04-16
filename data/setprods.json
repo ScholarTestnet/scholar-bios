@@ -12,6 +12,10 @@
     {
       "producer_name": "eos.sydney",
       "block_signing_key": "EOS6fsGq5Y58aK5woXJLm98BWF5qRtLybCPaVFwJYvMzw4XybLBAb"
+    },
+    {
+      "producer_name": "eosocal",
+      "block_signing_key": "EOS8Ctxaor6oNQNuNUVtiNQSeNJW5X2hNjtHKTV4yLvUB7Hy95Adf"
     }
   ]
 }
