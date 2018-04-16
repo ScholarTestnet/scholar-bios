@@ -24,6 +24,10 @@
     {
       "producer_name": "bitcoin.eos",
       "block_signing_key": "EOS7L4tQ92HgC9kwEHiPYpYy3kZnA9hxNxkmsmwfE8ypHhvDWUVW9"
+    },
+    {
+      "producer_name": "worbli",
+      "block_signing_key": "EOS6NwJ63CcMKdG4qwa4Nc3qoW2PmartGbizCGrG9tTWyQVfWwKUG"
     }
   ]
 }
