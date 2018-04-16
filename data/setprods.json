@@ -4,6 +4,10 @@
     {
       "producer_name": "eos.nation",
       "block_signing_key": "EOS78uKLgYYSgQHXyJbbjDzXpibChtcYGKmooz8AmyiDhTiaC1Syz"
+    },
+    {
+      "producer_name": "eosocal",
+      "block_signing_key": "EOS8Ctxaor6oNQNuNUVtiNQSeNJW5X2hNjtHKTV4yLvUB7Hy95Adf"
     }
   ]
 }
