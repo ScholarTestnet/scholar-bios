@@ -8,6 +8,10 @@
     {
       "producer_name": "eos.sydney",
       "block_signing_key": "EOS6fsGq5Y58aK5woXJLm98BWF5qRtLybCPaVFwJYvMzw4XybLBAb"
+    },
+    {
+      "producer_name": "eos.union",
+      "block_signing_key": "EOS6kkhz7j4m2SYzbSzwpvPoQPWVWt1DFYJvjuyJUTY78MxGsG7hc"
     }
   ]
 }
