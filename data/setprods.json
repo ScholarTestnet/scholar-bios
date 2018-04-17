@@ -46,6 +46,10 @@
       "block_signing_key": "EOS6kkhz7j4m2SYzbSzwpvPoQPWVWt1DFYJvjuyJUTY78MxGsG7hc"
     },
     {
+      "producer_name": "bitspace",
+      "block_signing_key": "EOS5zAhzqBGBDQmDP1DsXRYSHcWyfvxAHHunQuN9sFBPDBfHuBB1j"
+    },
+    {
       "producer_name": "top.one",
       "block_signing_key": "EOS8MyARJkhuVN9yc698uFVHpFy6N7V69FWpPMrbwDRshHwtegKkz"
     },
