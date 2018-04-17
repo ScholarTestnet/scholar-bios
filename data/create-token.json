@@ -1,5 +1,5 @@
 {
-  "issuer": "eosio",
+  "issuer": "eosio.token",
   "maximum_supply": "1000000000.0000 EOS",
   "can_freeze": 0,
   "can_recall": 0,
