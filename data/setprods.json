@@ -10,6 +10,14 @@
       "block_signing_key": "EOS8Ctxaor6oNQNuNUVtiNQSeNJW5X2hNjtHKTV4yLvUB7Hy95Adf"
     },
     {
+      "producer_name": "eos.cannon",
+      "block_signing_key": "EOS7aFKPyBpi1eiGXDajNx3AnJcaV1D9iCm7VRAg5UDtdFYofS7Qk"
+    },
+    {
+      "producer_name": "meet.one",
+      "block_signing_key": "EOS89nqhePAogKBGTa7ent35yp3iYUh6z6yMVLRRx2KmnF5ixaWcy"
+    },
+    {
       "producer_name": "staked",
       "block_signing_key": "EOS5jds9EmCk6wpcJQURp4aYq6M318gLQZTT1aUVoU7yWVYSjPDE1"
     },
@@ -34,10 +42,6 @@
       "block_signing_key": "EOS6fsGq5Y58aK5woXJLm98BWF5qRtLybCPaVFwJYvMzw4XybLBAb"
     },
     {
-      "producer_name": "meet.one",
-      "block_signing_key": "EOS89nqhePAogKBGTa7ent35yp3iYUh6z6yMVLRRx2KmnF5ixaWcy"
-    },
-    {
       "producer_name": "eos.union",
       "block_signing_key": "EOS6kkhz7j4m2SYzbSzwpvPoQPWVWt1DFYJvjuyJUTY78MxGsG7hc"
     },
@@ -46,7 +50,7 @@
       "block_signing_key": "EOS8MyARJkhuVN9yc698uFVHpFy6N7V69FWpPMrbwDRshHwtegKkz"
     },
     {
-      "producer_name": "eosantpool",
+      "producer_name": "eos.antpool",
       "block_signing_key": "EOS7ug5BoKPNtNhUdMzic2nwPvUNo25T9HVfNKPgvbz8BzwoGvY1K"
     }
   ]
