@@ -20,6 +20,10 @@
     {
       "producer_name":"eosantpool",
       "block_signing_key": "EOS7ug5BoKPNtNhUdMzic2nwPvUNo25T9HVfNKPgvbz8BzwoGvY1K"
-    }
+    },
+    {
+      "producer_name":"eoscannon",
+      "block_signing_key": "EOS7aFKPyBpi1eiGXDajNx3AnJcaV1D9iCm7VRAg5UDtdFYofS7Qk"
+    },
   ]
 }
