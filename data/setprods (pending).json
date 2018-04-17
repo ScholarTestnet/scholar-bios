@@ -16,6 +16,10 @@
     {
       "producer_name":"top.one",
       "block_signing_key": "EOS8MyARJkhuVN9yc698uFVHpFy6N7V69FWpPMrbwDRshHwtegKkz"
+    },
+    {
+      "producer_name":"eosantpool",
+      "block_signing_key": "EOS7ug5BoKPNtNhUdMzic2nwPvUNo25T9HVfNKPgvbz8BzwoGvY1K"
     }
   ]
 }
