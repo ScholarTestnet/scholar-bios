@@ -38,6 +38,10 @@
       "block_signing_key": "EOS89nqhePAogKBGTa7ent35yp3iYUh6z6yMVLRRx2KmnF5ixaWcy"
     },
     {
+      "producer_name": "eos.union",
+      "block_signing_key": "EOS6kkhz7j4m2SYzbSzwpvPoQPWVWt1DFYJvjuyJUTY78MxGsG7hc"
+    },
+    {
       "producer_name": "top.one",
       "block_signing_key": "EOS8MyARJkhuVN9yc698uFVHpFy6N7V69FWpPMrbwDRshHwtegKkz"
     },
