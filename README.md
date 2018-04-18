@@ -1,5 +1,9 @@
 # High-level Boot Sequence Overview
-Below are the steps required for booting up a new DAWN 3.0 testnet, following closely to [Thomas Cox's proposed BIO Booting article](https://medium.com/eosio/bios-boot-eosio-blockchain-2b58b8a978a1).
+
+#### [Click me switch to English version](README.md)
+#### [点击查看中文版本](README-ZH.md)
+
+Below are the steps required for booting up a new DAWN 3.0 testnet, following closely to [Thomas Cox's proposed BIOS Booting article](https://medium.com/eosio/bios-boot-eosio-blockchain-2b58b8a978a1).
 
 ## Pre-boot
 
