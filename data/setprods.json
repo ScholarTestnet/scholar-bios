@@ -6,10 +6,6 @@
       "block_signing_key": "EOS5zAhzqBGBDQmDP1DsXRYSHcWyfvxAHHunQuN9sFBPDBfHuBB1j"
     },
     {
-      "producer_name": "eos.cafe",
-      "block_signing_key": "EOS8bQz8ve6DpfVTaPXPotrjW3J2h6uToW4g2uV9rXfMYSwicawma"
-    },
-    {
       "producer_name": "chainpool",
       "block_signing_key": "EOS7GEL7tGYSjLXJhnHhupeJY2grTz2U3SXwLRxFqrcvfryyPzauN"
     },
@@ -20,6 +16,10 @@
     {
       "producer_name": "eos.antpool",
       "block_signing_key": "EOS7ug5BoKPNtNhUdMzic2nwPvUNo25T9HVfNKPgvbz8BzwoGvY1K"
+    },
+    {
+      "producer_name": "eos.cafe",
+      "block_signing_key": "EOS8bQz8ve6DpfVTaPXPotrjW3J2h6uToW4g2uV9rXfMYSwicawma"
     },
     {
       "producer_name": "eos.dublin",
@@ -58,7 +58,6 @@
       "block_signing_key": "EOS4tyhMnKdHZNNd7HaNTagL91FQZHHNi4LZzeEcLxMSkDtwwwvTM"
     },
     {
-<<<<<<< HEAD
       "producer_name": "top.one",
       "block_signing_key": "EOS8MyARJkhuVN9yc698uFVHpFy6N7V69FWpPMrbwDRshHwtegKkz"
     },
@@ -67,8 +66,6 @@
       "block_signing_key": "EOS7wUEGtMFCVo4QA3Rica9wEsuVz6DAtEyNFyah22SmuLqxVcdrt"
     },
     {
-=======
->>>>>>> b0fad773adddd923ac0deef5424b3930160f7a6a
       "producer_name": "worbli",
       "block_signing_key": "EOS6NwJ63CcMKdG4qwa4Nc3qoW2PmartGbizCGrG9tTWyQVfWwKUG"
     }
