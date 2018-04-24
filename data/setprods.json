@@ -10,6 +10,10 @@
       "block_signing_key": "EOS8bQz8ve6DpfVTaPXPotrjW3J2h6uToW4g2uV9rXfMYSwicawma"
     },
     {
+      "producer_name": "chainpool",
+      "block_signing_key": "EOS7GEL7tGYSjLXJhnHhupeJY2grTz2U3SXwLRxFqrcvfryyPzauN"
+    },
+    {
       "producer_name": "crypto.lions",
       "block_signing_key": "EOS8kPknDKhFSkUSQTb58j2thkKFSgLGSaz4AMFyCvXUZugdRarxA"
     },
