@@ -58,10 +58,6 @@
       "block_signing_key": "EOS4tyhMnKdHZNNd7HaNTagL91FQZHHNi4LZzeEcLxMSkDtwwwvTM"
     },
     {
-      "producer_name": "top.one",
-      "block_signing_key": "EOS8MyARJkhuVN9yc698uFVHpFy6N7V69FWpPMrbwDRshHwtegKkz"
-    },
-    {
       "producer_name": "worbli",
       "block_signing_key": "EOS6NwJ63CcMKdG4qwa4Nc3qoW2PmartGbizCGrG9tTWyQVfWwKUG"
     }
