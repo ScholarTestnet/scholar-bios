@@ -42,6 +42,10 @@
       "block_signing_key": "EOS7Kjv2yamCmFmDk7UKtpP6e56YRpkoaNNir6rHFAz9xRrrUaJzD"
     },
     {
+      "producer_name": "eosauthority",
+      "block_signing_key": "EOS4uPWabWJGp8bD9XriNjU5bHPZ2fjv5xeYSUqhMGuAMk5n8wrQ5"
+    },
+    {
       "producer_name": "eoscannon",
       "block_signing_key": "EOS7aFKPyBpi1eiGXDajNx3AnJcaV1D9iCm7VRAg5UDtdFYofS7Qk"
     },
