@@ -50,6 +50,10 @@
       "block_signing_key": "EOS7aFKPyBpi1eiGXDajNx3AnJcaV1D9iCm7VRAg5UDtdFYofS7Qk"
     },
     {
+      "producer_name": "eoseco",
+      "block_signing_key": "EOS85fDTxvb2P6cXuz5nQyaDwTPbemwcw6KyVDmHHZaGFNog5fBCK"
+    },
+    {
       "producer_name": "eosocal",
       "block_signing_key": "EOS8Ctxaor6oNQNuNUVtiNQSeNJW5X2hNjtHKTV4yLvUB7Hy95Adf"
     },
@@ -58,12 +62,12 @@
       "block_signing_key": "EOS89nqhePAogKBGTa7ent35yp3iYUh6z6yMVLRRx2KmnF5ixaWcy"
     },
     {
-      "producer_name": "top.one",
-      "block_signing_key": "EOS8MyARJkhuVN9yc698uFVHpFy6N7V69FWpPMrbwDRshHwtegKkz"
-    },
-    {
       "producer_name": "staked",
       "block_signing_key": "EOS4tyhMnKdHZNNd7HaNTagL91FQZHHNi4LZzeEcLxMSkDtwwwvTM"
+    },
+    {
+      "producer_name": "top.one",
+      "block_signing_key": "EOS8MyARJkhuVN9yc698uFVHpFy6N7V69FWpPMrbwDRshHwtegKkz"
     },
     {
       "producer_name": "wancloud",
