@@ -2,8 +2,52 @@
   "version": "12345",
   "producers": [
     {
+      "producer_name": "eos.antpool",
+      "block_signing_key": "EOS7ug5BoKPNtNhUdMzic2nwPvUNo25T9HVfNKPgvbz8BzwoGvY1K"
+    },
+    {
+      "producer_name": "eos.cafe",
+      "block_signing_key": "EOS8bQz8ve6DpfVTaPXPotrjW3J2h6uToW4g2uV9rXfMYSwicawma"
+    },
+    {
+      "producer_name": "eos.dublin",
+      "block_signing_key": "EOS8hoSchLecy3WYM9SKPQiXso4awRidxyDHtVNTrVBxkkAUzSqUf"
+    },
+    {
+      "producer_name": "eos.sydney",
+      "block_signing_key": "EOS6fsGq5Y58aK5woXJLm98BWF5qRtLybCPaVFwJYvMzw4XybLBAb"
+    },
+    {
+      "producer_name": "eos.union",
+      "block_signing_key": "EOS6kkhz7j4m2SYzbSzwpvPoQPWVWt1DFYJvjuyJUTY78MxGsG7hc"
+    },
+    {
+      "producer_name": "eos.wtz",
+      "block_signing_key": "EOS7Kjv2yamCmFmDk7UKtpP6e56YRpkoaNNir6rHFAz9xRrrUaJzD"
+    },
+    {
+      "producer_name": "eoscannon",
+      "block_signing_key": "EOS7aFKPyBpi1eiGXDajNx3AnJcaV1D9iCm7VRAg5UDtdFYofS7Qk"
+    },
+    {
       "producer_name": "eosocal",
       "block_signing_key": "EOS8Ctxaor6oNQNuNUVtiNQSeNJW5X2hNjtHKTV4yLvUB7Hy95Adf"
+    },
+    {
+      "producer_name": "meet.one",
+      "block_signing_key": "EOS89nqhePAogKBGTa7ent35yp3iYUh6z6yMVLRRx2KmnF5ixaWcy"
+    },
+    {
+      "producer_name": "staked",
+      "block_signing_key": "EOS4tyhMnKdHZNNd7HaNTagL91FQZHHNi4LZzeEcLxMSkDtwwwvTM"
+    },
+    {
+      "producer_name": "wancloud",
+      "block_signing_key": "EOS7wUEGtMFCVo4QA3Rica9wEsuVz6DAtEyNFyah22SmuLqxVcdrt"
+    },
+    {
+      "producer_name": "worbli",
+      "block_signing_key": "EOS6NwJ63CcMKdG4qwa4Nc3qoW2PmartGbizCGrG9tTWyQVfWwKUG"
     }
   ]
 }
