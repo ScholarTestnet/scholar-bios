@@ -12,6 +12,10 @@
     {
       "producer_name": "eos.dublin",
       "block_signing_key": "EOS8hoSchLecy3WYM9SKPQiXso4awRidxyDHtVNTrVBxkkAUzSqUf"
+    },  
+    {
+      "producer_name": "eos.nation",
+      "block_signing_key": "EOS78uKLgYYSgQHXyJbbjDzXpibChtcYGKmooz8AmyiDhTiaC1Syz"
     },
     {
       "producer_name": "eos.sydney",
